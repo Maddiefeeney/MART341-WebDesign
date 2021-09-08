@@ -1,0 +1,6 @@
+1. The world wide web is different from the internet because it is what we get on when we go on a computer and look things up, internet 
+in contrast, is what we use to get onto the web. It is the connection.
+2. The internet works by connecting your device to the web and allows us to visit websites and chat with people by sending our data around.
+3. A directory is a file system that can be broken down into different hierarchical levels. Files reside within the directory.
+4. VCS is helpful because it tracks changes that are made and can help you determine where you might have made an error. 
+6. My favorite kind of art is painting. I specifically enjoy fauvism. 
