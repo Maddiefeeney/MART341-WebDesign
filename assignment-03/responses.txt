@@ -1,0 +1,4 @@
+1. Websites I like to visit: pinterest, youtube, netflix 
+2. The relationship between IP address and the DNS is that the DNS relays the domain name to a specific IP address so that people can browse the web.
+3. Cookies are data that gets put on a users device when visiting a website
+4. The three essentials of a URL are the protocol, domain, and path
