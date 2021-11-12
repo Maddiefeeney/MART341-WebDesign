@@ -1,24 +1,18 @@
 @font-face {
   font-family: 'NunitoSans';
-  src:url('../fonts/NunitoSans-Regular.ttf'); format('opentype')
+  src:url('../fonts/NunitoSans-Regular.ttf'); format:('truetype')
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Raleway';
-  src:url('../fonts/Raleway-Regular.tff'); format('opentype')
+  font-family: 'Halant';
+  src:url('../fonts/Halant-Regular.tff'); format:('truetype')
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Raleway'
-  src:url('../fonts/Raleway-Italic.tff'); format('opentype')
-  font-weight: normal;
-  font-style:italic;
-}
-@font-face {
-  font-family: 'Raleway'
-  src:url('../fonts/Raleway-Bold.tff'); format('opentype')
-  font-weight: normal;
-  font-style:bold;
+  font-family: 'Halant'
+  src:url('../fonts/Halant-Bold.tff'); format:('truetype')
+  font-weight: bold;
+  font-style: normal;
 }

@@ -1,6 +1,11 @@
-h2 {
-  font-family: NunitoSans;
+#Heading {
+  font-family: Halant;
+  font-weight: bold;
 }
-* {
-  font-family: Raleway;
+#Author {
+  font-family: Halant;
+  font-weight: normal;
+}
+#Body {
+  font-family: NunitoSans;
 }
