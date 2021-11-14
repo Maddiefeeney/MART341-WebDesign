@@ -1,18 +1,36 @@
 #Heading {
-  font-family: 'Halant', 'times';
+  font-family: 'Halant';
   font-weight: 'bold';
 }
 #Author {
-  font-family: 'Halant', 'times';
+  font-family: 'Halant';
   font-weight: 'normal';
   font-style: 'italic'
 }
 #Body {
-  font-family: 'NunitoSans', 'sans-serif';
+  font-family: 'NunitoSans', sans-serif;
   line height: 2;
 }
 #Body first-child::first-letter {
   font-family: 'Halant';
-  font-size: 2.5em
-  font-weight: 'bold'
+  font-size: 2.5em;
+  font-weight: 'bold';
+}
+#Link{
+  {
+   font-size: 1.5em;
+}
+a:link {
+   color: green;
+   text-decoration: none;
+}
+
+a:visited {
+   color: pink;
+   text-decoration: none;
+}
+
+a:hover {
+   color: blue;
+   font-style: italic;
 }
