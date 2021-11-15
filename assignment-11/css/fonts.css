@@ -7,12 +7,12 @@
 @font-face {
   font-family: 'Halant';
   src:url('../fonts/Halant-Regular.tff') format('truetype')
-  font-weight: normal;
+  font-weight:normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Halant';
   src:url('../fonts/Halant-Bold.tff') format('truetype')
-  font-weight: bold;
+  font-weight: 600;
   font-style: normal;
 }
