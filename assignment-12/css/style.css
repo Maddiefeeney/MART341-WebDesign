@@ -1,0 +1,47 @@
+.container {
+  font-size: 2em;
+  position: relative;
+}
+
+.body-container {
+  width: 500px;
+  height: 175px;
+  background-color: orange;
+  border: 1px;
+  border-style: double;
+  border-width: 1em;
+  border-color: black;
+  padding: 1em;
+}
+
+.body-container-2 {
+  width: 500px;
+  height:200px;
+  border: 1px;
+  border-style: double;
+  border-width: 1em;
+  border-color: black;
+  padding: 1em;
+  background-color: pink;
+
+}
+.display-inline{
+  display: inline;
+}
+
+.square {
+    width: 20%;
+    height: 6em;
+    margin: 0.25em;
+    background-color: lime;
+    float: right;
+}
+
+.website {
+  font-size: 1em;
+  font-family: times;
+}
+
+a:hover {
+  font-style: italic;
+}
