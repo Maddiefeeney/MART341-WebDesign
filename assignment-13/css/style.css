@@ -53,3 +53,10 @@ header {
     color: #baf0ef;
     background-color: red;
 }
+
+.Welcome {
+  font-family: sans-serif;
+}
+*{
+  background-color: white
+}
