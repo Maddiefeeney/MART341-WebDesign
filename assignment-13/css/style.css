@@ -12,8 +12,9 @@ header {
     margin: 0 0;
     min-width: 8em;
     text-align: center;
-    background-color: #26272b;
+    background-color: black;
     padding: 0.5em 0;
+    float: left;
 }
 .menu-item a {
     color: white;
@@ -53,10 +54,29 @@ header {
     color: #baf0ef;
     background-color: red;
 }
-
-.Welcome {
-  font-family: sans-serif;
+a:visited {
+  color: purple;
+}
+.h1{
+  font-family: monospace, serif;
+}
+.container {
+  width: 1700px;
+  height: 500px;
+  background-color: black;
+  border: 1px;
+  border-style: double;
+  border-width: 1em;
+  border-color: black;
+  padding: 1em;
 }
 *{
   background-color: white
+  box-sizing: border-box;
 }
+.paragraph {
+  font-family: arial, sans-serif;
+}
+.img {
+  max-width: 100%;
+  height: auto;
