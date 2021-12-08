@@ -13,7 +13,6 @@ header {
     text-align: right;
 }
 
-/* Set the layout of the menu: */
 .menu-item {
     display: inline-block;
     margin: 0 0;
@@ -23,7 +22,6 @@ header {
     padding: 0.5em 0;
 }
 
-/* Style the links: */
 .menu-item a {
     color: white;
     text-decoration: none;
@@ -62,4 +60,60 @@ header {
 .dropdown-item:hover, .dropdown-item:hover a {
     color: #baf0ef;
     background-color: #a2a2a2;
+}
+.containerh {
+  display: inline-block;
+  width: 1015px;
+  height: 1080px;
+  background-color: white;
+  border: 1px;
+  border-style: double;
+  border-width: 1em;
+  border-color: black;
+  padding: 1em;
+}
+.container {
+  display: inline-block;
+  width: 1050px;
+  height: 2850px;
+  background-color: white;
+  border: 1px;
+  border-style: double;
+  border-width: 1em;
+  border-color: black;
+  padding: 1em;
+}
+
+.address-container {
+  display: inline-block;
+  width: 1050px;
+  height: 550px;
+  background-color: white;
+  border: 1px;
+  border-style: double;
+  border-width: 1em;
+  border-color: black;
+  padding: 1em;
+}
+.containera {
+  display: inline-block;
+  width: 1050px;
+  height: 660px;
+  background-color: white;
+  border: 1px;
+  border-style: double;
+  border-width: 1em;
+  border-color: black;
+  padding: 1em;
+}
+.containerc {
+  display: inline-block;
+  width: 1050px;
+  height: 400px;
+  background-color: white;
+  border: 1px;
+  border-style: double;
+  border-width: 1em;
+  border-color: black;
+  padding: 1em;
 }
