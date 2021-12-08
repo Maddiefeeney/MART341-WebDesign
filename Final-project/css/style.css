@@ -1,11 +1,11 @@
 * {
   background-color: pink;
-  font: sans-serif;
+  font-family: sans-serif, 'Halant';
 }
 
 header {
     background-color: #26272b;
-    font-family: sans-serif;
+    font-family: 'NunitoSans';
     font-size: 10pt;
     text-transform: uppercase;
     margin: 0;
